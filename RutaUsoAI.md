@@ -143,7 +143,7 @@ Comienza con preguntas amplias, y luego pide a la IA que te ayude a filtrar y or
 > “Dame opciones” → “Selecciona la más potente” → “Redáctala en 3 frases claras”
 
 **🌱 ¿Cómo seguir creciendo?**  
-Haz de la IA un espacio para pensar en voz alta. Utilízala para planear, escribir, aprender y decidir. El valor no está solo en obtener respuestas… sino en **aprender a preguntar mejor.**
+> Haz de la IA un espacio para pensar en voz alta. Utilízala para planear, escribir, aprender y decidir. El valor no está solo en obtener respuestas… sino en **aprender a preguntar mejor.**
 ---
 ### La Metacompetencia de Colaborar con IA: Tu Ventaja Laboral
 
