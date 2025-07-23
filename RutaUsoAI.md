@@ -63,7 +63,7 @@ Cambia la intención:
 
 ---
 
-### 🔹 Etapa 2 – Eficiencia con intención
+### 🔹 Etapa 2 – Eficiencia con intención ( La IA como asistente)
 
 **📋 ¿Dónde estás en esta etapa?**  
 Usas IA para ganar tiempo en tareas concretas. Te tomas el tiempo de formular instrucciones claras, revisas los resultados y comienzas a usarla como un apoyo funcional en el trabajo o estudio.
@@ -89,7 +89,7 @@ Identifica los prompts que más usas y vuelve a escribirlos de forma más genera
 
 ---
 
-### 🔵 Etapa 3 – Eficiencia estratégica
+### 🔵 Etapa 3 – Eficiencia estratégica (La IA como colaborador)
 
 **📋 ¿Dónde estás en esta etapa?**  
 Ya no improvisas: diseñas prompts con estructura, variables y condiciones. Los reutilizas y los compartes. Ves a la IA como parte de tu sistema de trabajo, no como un servicio puntual. En esta etapa, también has comprendido mejor qué tareas se pueden delegar y cuáles requieren tu juicio humano.
@@ -110,7 +110,7 @@ Comienza a usar la IA para analizar cómo comunicas, no solo qué produces. Pide
 
 ---
 
-### 🟢 Etapa 4 – Potencialización del pensamiento
+### 🟢 Etapa 4 – Potencialización del pensamiento  ( La IA como socio creativo)
 
 **📋 ¿Dónde estás en esta etapa?**  
 Usas la IA como copiloto cognitivo. No solo generas contenido, sino que la usas para pensar mejor: cuestionar, crear, comparar, explicar, estructurar. La IA te acompaña en procesos estratégicos, creativos y reflexivos.
