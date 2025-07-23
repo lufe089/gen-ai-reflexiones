@@ -1,7 +1,7 @@
 
 # Progresión en el uso de la IA generativa
 **Luisa Rincón**  
-**Mayo 2025**
+**Agosto 2025**
 
 ## 🧠 Ruta de evolución en el uso de la IA generativa
 > Explora cómo interactúas con la IA hoy, y qué podrías hacer para llevar tu pensamiento, tu productividad o tu creatividad al siguiente nivel.
