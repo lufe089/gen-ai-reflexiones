@@ -1,4 +1,4 @@
-# Prompts Maestros para el Aprendizaje con IA
+# Prompts Maestros para el Aprendizaje potenciado IA
 Última actualización de fondo: 28 de febrero 2026
 
 > Esta colección recoge en forma de promtps recursos que luego de haberlos creado me han permitido reflexionar, pensar e idear más allá de lo esperado. Espero que a ti que lees estos textos te permita llegar más lejos de lo que puedas imaginar.
