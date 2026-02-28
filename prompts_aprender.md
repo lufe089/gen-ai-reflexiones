@@ -26,7 +26,7 @@ Los prompts que aquí se presentan están construidos sobre principios documenta
 | `[DESARROLLO]` | El núcleo de la conversación y cómo avanza el aprendizaje |
 | `[CIERRE]` | Un tip de cocreación que convierte el aprendizaje en acción |
 
-El valor de estos prompts no está en copiarlos, sino en entender el diseño que los sostiene para construir los propios. Un usuario que comprende los seis bloques puede diseñar experiencias de aprendizaje para cualquier disciplina, nivel de profundidad o estilo cognitivo.
+El valor de estos prompts no sólo está en copiarlos, sino en entender su diseño para construir los propios. Un usuario que comprende los seis bloques puede diseñar experiencias de aprendizaje para otras disciplinas, niveles de profundidad o estilo cognitivo.
 
 Cada prompt está diseñado para ser pegado directamente en cualquier asistente de IA generativa de uso general. La IA conduce la conversación desde el inicio; el usuario solo necesita responder con honestidad.
 
