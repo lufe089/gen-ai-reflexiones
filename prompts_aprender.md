@@ -421,7 +421,7 @@ El patrón de seis bloques que estructura estos prompts es un diseño replicable
 | `[DESARROLLO]` | ¿Cómo avanza la conversación y qué produce el aprendizaje? |
 | `[CIERRE]` | ¿Cómo se convierte lo aprendido en punto de partida para algo más grande? |
 
-La diferencia entre un prompt que pide respuestas y un prompt que genera aprendizaje no está en la sofisticación del lenguaje. Está en si estos seis bloques están presentes o no.
+La diferencia entre un prompt que pide respuestas y un prompt que genera aprendizaje no está en la sofisticación del lenguaje. Está en incluir bloques que sean importantes para lograr el propósito.
 
 ---
 
