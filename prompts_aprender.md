@@ -3,7 +3,7 @@
 
 > Esta colección recoge en forma de promtps recursos que luego de haberlos creado me han permitido reflexionar, pensar e idear más allá de lo esperado. Espero que a ti que lees estos textos te permita llegar más lejos de lo que puedas imaginar.
 > 
-> Este es material libre para usar y compartir a todo aquel que le pueda aportar valor, claramente esta co-creado con IA, sino iría en contra de la escencia misma de lo que quiero transmitir.
+> Este es material libre para usar y compartir a todo aquel que le pueda aportar valor. Esta co-creado con IA, sino iría en contra de la escencia misma de lo que quiero transmitir.
 >
 >  Entre más usemos la IA para potencializarnos, más podremos afrontar los nuevos retos que se nos vienen.
 >
