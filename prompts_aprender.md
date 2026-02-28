@@ -1,9 +1,8 @@
 # Prompts Maestros para el Aprendizaje con IA
 Última actualización de fondo: 28 de febrero 2026
 
-> Esta colección recoge en forma de promtps reflexiones que me han permitido reflexionar, pensar e idear más allá de lo esperado. Espero que a quien lo lea le haga llegar
-> tan lejos como a mi en mis reflexiones, mi proceso de aprendizaje y los productos derivados.
->
+> Esta colección recoge en forma de promtps recursos que me han permitido reflexionar, pensar e idear más allá de lo esperado. Espero que a ti lector y usuario estos instrumentos te hagan llegar tan lejos e incluso más de loq ue puedas imaginar.
+> 
 > Este es material libre para usar y compartir a todo aquel que le pueda aportar valor. Entre más usemos la IA para potencializarnos, más podremos afrontar los nuevos retos que se nos vienen.
 >
 > Feliz aprendizaje, 
