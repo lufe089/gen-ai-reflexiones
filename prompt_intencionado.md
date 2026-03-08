@@ -26,6 +26,9 @@ A continuación se presentan algunas **partes sugeridas que suelen
 aparecer en prompts intencionados**, indicando cómo se denominan
 prácticas similares en ingeniería de prompts.
 
+Aquí se encuentran otros ejemplos:
+* [Prompts para aprender](https://github.com/lufe089/gen-ai-reflexiones/blob/main/prompts_aprender.md)
+* [Ejemplos](https://github.com/lufe089/gen-ai-reflexiones/blob/main/ejemplo_prompts_intencionados.md)
 ------------------------------------------------------------------------
 
 ## 1. Definición del rol de la IA
