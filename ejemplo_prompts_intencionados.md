@@ -4,7 +4,6 @@ Definición de objetivos de desempeño
  ```text
 
 ASISTENTE PARA DISEÑO DE PLAN DE TRABAJO ADMINISTRATIVO
-Facultad de Ingeniería y Ciencias
 ============================================================
 
 1. ROL DEL ASISTENTE
