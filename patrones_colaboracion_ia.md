@@ -68,24 +68,174 @@ Las tecnologías digitales han ampliado significativamente este conjunto de inst
 
 En este marco, los prompts adquieren un papel particularmente interesante. Un prompt bien construido no solo produce una respuesta, también **estructura el diálogo con la herramienta** y orienta el proceso de pensamiento del usuario.
 
----
+------------------------------------------------------------------------
 
-# Patrones de colaboración con inteligencia artificial
+# Patrón 1: IA como generador de respuestas
 
-Cuando las personas comienzan a utilizar inteligencia artificial en su trabajo intelectual suelen aparecer distintas formas de interacción. Estas formas no deben entenderse como etapas rígidas, sino como **patrones de uso** que pueden combinarse en distintos momentos.
+## Descripción
 
-Identificar estos patrones permite comprender cómo evoluciona la relación entre una persona y la herramienta.
+En este patrón la inteligencia artificial se utiliza principalmente como
+un sistema que produce respuestas. El usuario formula una pregunta o una
+instrucción y la herramienta genera un resultado.
 
----
+Este es el punto de entrada más común para muchas personas, ya que
+permite obtener resultados rápidamente.
 
-## IA como generador de respuestas
+## Ejemplo
 
-Este es el patrón más común cuando una persona comienza a utilizar inteligencia artificial.
+Un usuario podría escribir un prompt como el siguiente:
 
-En este tipo de interacción la herramienta se utiliza principalmente para producir resultados directos. Algunos ejemplos frecuentes incluyen:
+> Resume este artículo en cinco ideas principales.
 
-- generar un texto a partir de una instrucción breve,
-- resumir un documento,
-- responder una pregunta puntual.
+La herramienta responde con un resumen. En este caso la interacción
+termina cuando el usuario obtiene el resultado.
 
-Por ejemplo:
+## Ventajas
+
+Este tipo de uso puede ser útil cuando se necesita:
+
+-   generar borradores,
+-   resumir documentos,
+-   producir ideas iniciales.
+
+## Limitaciones
+
+Cuando la interacción se limita a este patrón, la herramienta se utiliza
+únicamente como un **productor de contenido**, lo que reduce su
+potencial para apoyar procesos de análisis o reflexión.
+
+------------------------------------------------------------------------
+
+# Patrón 2: IA como asistente de estructuración
+
+## Descripción
+
+En este patrón la inteligencia artificial se utiliza para **organizar
+información o estructurar un problema**.
+
+El usuario no busca únicamente una respuesta final. En cambio, utiliza
+la herramienta para generar categorías, identificar dimensiones de
+análisis o proponer estructuras de trabajo.
+
+## Ejemplo
+
+Un prompt podría ser:
+
+> Estoy analizando la adopción de inteligencia artificial en educación
+> superior. Propón un marco de análisis con cinco dimensiones que me
+> ayuden a estudiar este fenómeno.
+
+En este caso la herramienta no entrega una respuesta final al problema.
+Más bien ayuda a **organizar la forma en que el problema puede
+estudiarse**.
+
+## Ventajas
+
+Este tipo de interacción puede ayudar a:
+
+-   estructurar investigaciones,
+-   diseñar proyectos,
+-   organizar discusiones complejas.
+
+## Ejemplo aplicado
+
+Un investigador podría pedir a la IA que proponga categorías para
+analizar entrevistas. A partir de esas categorías, el investigador puede
+diseñar su esquema de análisis cualitativo.
+
+------------------------------------------------------------------------
+
+# Patrón 3: IA como interlocutor reflexivo
+
+## Descripción
+
+En este patrón la inteligencia artificial se utiliza como un
+interlocutor que permite revisar ideas, cuestionar argumentos o explorar
+nuevas perspectivas.
+
+El usuario puede pedir a la herramienta que critique un planteamiento o
+que formule preguntas que ayuden a mejorar una propuesta.
+
+## Ejemplo
+
+Un prompt podría ser:
+
+> Estoy desarrollando un modelo de adopción de IA en universidades.
+> Identifica posibles debilidades conceptuales en mi enfoque y sugiere
+> preguntas que debería considerar.
+
+En este caso la herramienta actúa como un **interlocutor que contribuye
+a la reflexión**.
+
+## Relación con teoría
+
+Este tipo de interacción se relaciona con la idea de **reflexión en la
+acción**, propuesta por Donald Schön (1983). Según Schön, los
+profesionales reflexionan sobre sus decisiones mientras trabajan sobre
+un problema, revisando y ajustando sus ideas continuamente.
+
+La inteligencia artificial puede facilitar este proceso cuando se
+utiliza para revisar argumentos o explorar alternativas.
+
+------------------------------------------------------------------------
+
+# Patrón 4: IA como co‑constructor de procesos
+
+## Descripción
+
+En este patrón la inteligencia artificial participa en el diseño del
+propio proceso de trabajo.
+
+El usuario puede pedir a la herramienta que ayude a:
+
+-   diseñar prompts,
+-   crear marcos de análisis,
+-   construir procedimientos de validación.
+
+La interacción se orienta a **diseñar cómo se va a trabajar**, no
+únicamente a producir contenido.
+
+
+## Ejemplo aplicado
+
+Un investigador podría pedir a la IA que diseñe:
+
+-   un prompt para transcribir entrevistas,
+-   otro prompt para identificar temas recurrentes,
+-   un tercer prompt para comparar resultados entre entrevistas.
+
+De esta forma la herramienta participa en el diseño del método de
+trabajo.
+
+------------------------------------------------------------------------
+
+# Implicaciones para el aprendizaje del uso de IA
+
+Comprender estos patrones permite interpretar cómo evoluciona el uso de
+la inteligencia artificial.
+
+Muchas personas comienzan utilizando la IA como un generador de
+respuestas. Con el tiempo pueden descubrir que estas herramientas
+también pueden ayudar a organizar problemas, revisar ideas o diseñar
+procesos de trabajo.
+
+Aprender a trabajar con inteligencia artificial implica desarrollar
+nuevas habilidades, entre ellas:
+
+-   formular preguntas más claras,
+-   estructurar conversaciones con la herramienta,
+-   diseñar procesos de exploración y validación.
+
+Cuando estas habilidades se desarrollan, la inteligencia artificial deja
+de ser únicamente una herramienta de producción de contenido y comienza
+a participar en el proceso intelectual del usuario.
+
+------------------------------------------------------------------------
+
+# Referencias
+
+Clark, A., & Chalmers, D. (1998). The extended mind. Analysis.
+
+Schön, D. (1983). The reflective practitioner.
+
+Vygotsky, L. (1978). Mind in society.
