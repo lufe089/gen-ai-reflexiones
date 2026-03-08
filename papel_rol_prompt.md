@@ -37,7 +37,7 @@ En este sentido, los prompts intencionados pueden entenderse como una forma de *
 
 Aplicado al trabajo con inteligencia artificial, el prompt funciona como una estructura que organiza la interacción con la herramienta y que facilita procesos de exploración, análisis y revisión.
 
-Diseñar prompts intencionados implica pensar no solo qué respuesta se quiere obtener, sino **qué tipo de pensamiento se quiere estimular durante la interacción con la inteligencia artificial**.
+>Diseñar prompts intencionados implica pensar no solo qué respuesta se quiere obtener, sino **qué tipo de pensamiento se quiere estimular durante la interacción con la inteligencia artificial**.
 ---
 
 ## Qué se entiende aquí por rol
