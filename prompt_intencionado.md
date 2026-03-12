@@ -225,7 +225,7 @@ Las etapas de revisión ayudan a mejorar la calidad de los resultados y a
 reducir errores.
 ------------------------------------------------------------------------
 
-# 9. Diseñar prompts reutilizables
+## 8. Diseñar prompts reutilizables
 
 Una característica importante es que pueden **reutilizarse en distintos contextos**. A diferencia de una simple plantilla donde se reemplazan palabras, un prompt intencionado funciona como una **estructura de interacción adaptable**.
 
@@ -238,8 +238,6 @@ Por ejemplo, un prompt diseñado para evaluar proyectos estudiantiles puede adap
 La clave es que el prompt **organiza el proceso de análisis**, no solo el contenido de la respuesta.
 
 ------------------------------------------------------------------------
-
-## 11.1 Uso de separadores y marcadores estructurales en el prompt
 
 Una práctica muy útil al diseñar prompts consiste en utilizar **separadores visuales y marcadores estructurales** dentro del texto del prompt.
 
@@ -274,13 +272,13 @@ comporta como una **estructura de interacción reutilizable**, capaz de
 solicitar información adicional al usuario cuando sea necesario y de
 guiar el proceso de análisis paso a paso.
 
-# 12. Errores comunes al diseñar prompts
+## 9. Errores comunes al diseñar prompts
 
 A continuación se describen algunos de los problemas más frecuentes.
 
 ------------------------------------------------------------------------
 
-## 12.1 Falta de estructura
+### 9.1 Falta de estructura
 
 Uno de los errores más comunes consiste en escribir prompts largos que
 mezclan múltiples instrucciones sin una organización clara.
@@ -321,7 +319,7 @@ modelo como la comprensión por parte del usuario.
 
 ------------------------------------------------------------------------
 
-## 12.2 Mezclar contexto con instrucciones
+### 9.2 Mezclar contexto con instrucciones
 
 Otro error frecuente consiste en **mezclar información de contexto con
 instrucciones operativas**.
@@ -347,7 +345,7 @@ realizar.
 
 ------------------------------------------------------------------------
 
-## 12.3 Ausencia de proceso paso a paso
+### 9.3 Ausencia de proceso paso a paso
 
 Muchos prompts piden directamente un resultado final sin orientar el
 proceso de razonamiento.
@@ -373,7 +371,7 @@ prompting** o **chain‑of‑thought prompting** (Wei et al., 2022).
 
 ------------------------------------------------------------------------
 
-## 12.4 Falta de delimitación del rol
+### 9.4 Falta de delimitación del rol
 
 Cuando el prompt no define qué tipo de asistente debe simular la
 inteligencia artificial, las respuestas pueden variar mucho en estilo y
@@ -392,7 +390,7 @@ desde el cual el modelo debe analizar la información.
 
 ------------------------------------------------------------------------
 
-## 12.5 Repetición innecesaria de instrucciones
+### 9.5 Repetición innecesaria de instrucciones
 
 Otro problema frecuente en prompts largos es la **repetición excesiva de
 las mismas instrucciones**.
@@ -422,7 +420,7 @@ Una alternativa más clara es organizar el prompt en secciones:
 
 ------------------------------------------------------------------------
 
-## 12.6 Falta de delimitación entre secciones
+### 9.6 Falta de delimitación entre secciones
 
 Cuando un prompt contiene múltiples ideas sin separadores o encabezados,
 resulta difícil identificar sus partes.
@@ -449,7 +447,7 @@ la claridad de la interacción.
 
 ------------------------------------------------------------------------
 
-## 12.7 Prompts demasiado vagos
+### 9.7 Prompts demasiado vagos
 
 Finalmente, muchos prompts fallan simplemente porque **no especifican lo
 que se espera obtener**.
@@ -469,7 +467,7 @@ de obtener respuestas útiles.
 
 ------------------------------------------------------------------------
 
-## 12.8 Diseñar prompts es diseñar interacción
+### 9.8 Diseñar prompts es diseñar interacción
 
 Estos errores muestran que diseñar prompts no consiste únicamente en
 escribir preguntas.
