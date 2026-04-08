@@ -36,7 +36,7 @@ Cada prompt está diseñado para ser pegado directamente en cualquier asistente 
 
 ## Como Usuario
 
-Antes de iniciar cualquiera de estos prompts, hay algunos principios que determinan si la conversación produce aprendizaje real o solo da la sensación de haberlo hecho.
+Antes de iniciar cualquiera de estos prompts, hay algunos principios que determinan si la conversación produce aprendizaje o solo da la sensación de haberlo hecho.
 
 ### 🎯 Tu actitud es el ingrediente que la IA no puede sustituir
 
@@ -48,11 +48,11 @@ Cuando sientas que no sabes cómo responder una pregunta de la IA, o que tu expl
 
 ### ⏳ No uses estos prompts para terminar más rápido
 
-Estos prompts tienen una secuencia interna que está ahí por razones concretas: primero mapean lo que sabes, después construyen sobre eso, después te piden que apliques. Si interrumpes esa secuencia para pedir la respuesta directamente, el prompt deja de ser una herramienta de aprendizaje y se convierte en un atajo. El punto no es llegar al final de la conversación; es lo que ocurre en el proceso.
+Estos prompts tienen una secuencia interna que primero mapean lo que sabes, después construyen sobre eso, después te piden que apliques. Si interrumpes esa secuencia para pedir la respuesta directamente, el prompt deja de ser una herramienta de aprendizaje y se convierte en un atajo. El punto no es llegar al final de la conversación sino lo que ocurre en el proceso.
 
 ### ✍️ Escribe tus respuestas, no solo las pienses
 
-Hay una diferencia entre creer que entiendes algo y poder escribirlo con tus propias palabras. Cuando el prompt te pida que expliques un concepto, escríbelo en lugar de solo pensarlo mentalmente. Articular ideas en texto obliga al cerebro a organizar el conocimiento de una forma que el pensamiento silencioso no requiere `[2]`. Ese esfuerzo adicional es parte del aprendizaje, no un obstáculo.
+Hay una diferencia entre creer que entiendes algo y poder escribirlo con tus propias palabras. Cuando el prompt te pida que expliques un concepto, escríbelo en lugar de solo pensarlo mentalmente. Articular ideas en texto obliga al cerebro a organizar el conocimiento de una forma que el pensamiento silencioso no requiere `[2]`. Ese esfuerzo adicional es parte del aprendizaje.
 
 ### 🔍 Una conversación por tema, no todas las preguntas de una vez
 
