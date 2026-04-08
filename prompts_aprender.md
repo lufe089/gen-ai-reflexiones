@@ -1,4 +1,9 @@
 # Prompts Maestros para el Aprendizaje potenciado IA
+
+> Pasé el contenido de esta página web para ampliar el público y mejorar su presentación: Aquí esta el link: [Prompts para aprender](https://luisa-rincon.com/prompts_para_potenciar_aprendizaje/)
+<details>
+  <summary> Aqui se pueden ver la version anterior</summary>
+>
 Última actualización de fondo: 28 de febrero 2026
 
 > Esta colección recoge en forma de promtps recursos que luego de haberlos creado me han permitido reflexionar, pensar e idear más allá de lo esperado. Espero que a ti que lees estos textos te permita llegar más lejos de lo que puedas imaginar.
@@ -504,3 +509,5 @@ _Teoría del aprendizaje significativo: el aprendizaje ocurre cuando la nueva in
 **[5]** Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
 _Concepto de Zona de Desarrollo Próximo (ZDP): el aprendizaje ocurre de forma más efectiva en el espacio entre lo que el estudiante puede hacer de forma independiente y lo que puede lograr con el apoyo de alguien más capaz._
 🔗 https://home.fau.edu/musgrove/web/vygotsky1978.pdf
+
+<details>
